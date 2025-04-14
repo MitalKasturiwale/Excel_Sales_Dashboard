@@ -36,8 +36,10 @@ This project demonstrates the creation of a fully interactive dashboard in Micro
 
 ## **Screenshots**
 
-- ![Screenshot 1 - Dashboard Overview]()
-- ![Screenshot 2 - Slicers in Action]()
+***Interactive Dashboard in Microsoft Excel***
+![Screenshot 1 - Dashboard Overview](Excel_Sales_Dashboard1.png)
+  
+ ![Screenshot 2 - Slicers in Action](Excel_Sales_Dashboard2.png)
 
 ## **Future Enhancements**
 - Expand the dataset to include additional dimensions like customer demographics or product details.
