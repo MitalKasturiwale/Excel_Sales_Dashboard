@@ -26,13 +26,6 @@ This project demonstrates the creation of a fully interactive dashboard in Micro
 - **Data Analysis Techniques**:
   - Performance tracking and KPI visualization.
 
-## **How to Use**
-1. Download the Excel file from this repository.
-2. Open it in Microsoft Excel (2016 or later recommended).
-3. Follow the interactive dashboard to explore insights using:
-   - Slicers for filtering data by sales executive, region, or other fields.
-   - Checkboxes to switch between different views or subsets of data.
-4. Run VBA macros (if enabled) for enhanced automation.
 
 ## **Screenshots**
 
